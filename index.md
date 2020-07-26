@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Determining Credit Risk](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/Predictive%20model%20to%20determine%20credit%20risk.html)
+[Determining Credit Risk](https://kevweirikefe.github.io/projects/Predictive%20model%20to%20determine%20credit%20risk.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pricing Analytics with MLE](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/PricingProject.html)
+[Pricing Analytics with MLE](https://kevweirikefe.github.io/projects/PricingProject.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
