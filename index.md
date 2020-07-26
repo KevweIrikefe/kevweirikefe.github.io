@@ -4,11 +4,11 @@
 
 ### Analytics Projects
 
-[Project 1 Title](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/NLP-Sentiment%20Analysis.html)
+[Sentiment Analysis on Social Media data-Twitter](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/NLP-Sentiment%20Analysis.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/Predictive%20model%20to%20determine%20credit%20risk.html)
+[Determining Credit Risk](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/Predictive%20model%20to%20determine%20credit%20risk.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
