@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Pricing Analytics with MLE](file:///Users/kevweirikefe/Documents/Simon%20Classes/R-programming/Pricing%20Data/PricingProject.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
