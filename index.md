@@ -4,7 +4,7 @@
 
 ### Analytics Projects
 
-[Sentiment Analysis on Social Media data-Twitter](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/NLP-Sentiment%20Analysis.html)
+[Sentiment Analysis on Social Media data-Twitter](https://kevweirikefe.github.io/blob/master/projects/NLP-Sentiment%20Analysis.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pricing Analytics with MLE](https://github.com/KevweIrikefe/kevweirikefe.github.io/tree/master/projects/PricingProject.html)
+[Pricing Analytics with MLE](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/PricingProject.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -31,5 +31,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
