@@ -5,15 +5,15 @@
 ### Analytics Projects
 
 [Sentiment Analysis on Social Media data-Twitter](https://kevweirikefe.github.io/projects/NLP-Sentiment%20Analysis.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Sentiment%20Analysis.jpg?raw=true"/>
 
 ---
 [Determining Credit Risk](https://kevweirikefe.github.io/projects/Predictive%20model%20to%20determine%20credit%20risk.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PredictiveProject.jpg?raw=true"/>
 
 ---
 [Pricing Analytics with MLE](https://kevweirikefe.github.io/projects/PricingProject.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PricingProject.jpg?raw=true"/>
 
 ---
 
