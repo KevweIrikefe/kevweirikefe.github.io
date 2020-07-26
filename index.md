@@ -4,15 +4,15 @@
 
 ### Analytics Projects
 
-[Sentiment Analysis on Social Media data-Twitter](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/NLP-Sentiment%20Analysis.html)
+[Sentiment Analysis on Social Media data-Twitter](https://github.com/KevweIrikefe/kevweirikefe.github.io/tree/gh-uploads/projects/NLP-Sentiment%20Analysis.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Determining Credit Risk](https://github.com/KevweIrikefe/kevweirikefe.github.io/blob/master/projects/Predictive%20model%20to%20determine%20credit%20risk.html)
+[Determining Credit Risk](https://github.com/KevweIrikefe/kevweirikefe.github.io/tree/gh-uploads/projects/Predictive%20model%20to%20determine%20credit%20risk.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pricing Analytics with MLE](https://github.com/KevweIrikefe/kevweirikefe.github.io/tree/master/projects/PricingProject.html)
+[Pricing Analytics with MLE](https://github.com/KevweIrikefe/kevweirikefe.github.io/tree/gh-uploads//projects/PricingProject.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
