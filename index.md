@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pricing Analytics with MLE](file:///Users/kevweirikefe/Documents/Simon%20Classes/R-programming/Pricing%20Data/PricingProject.html)
+[Pricing Analytics with MLE](https://github.com/KevweIrikefe/kevweirikefe.github.io/Projects/PricingProject.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
