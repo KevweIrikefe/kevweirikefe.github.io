@@ -4,7 +4,7 @@
 
 ### Analytics Projects
 
-[Sentiment Analysis on Social Media data-Twitter](https://kevweirikefe.github.io/blob/master/projects/NLP-Sentiment%20Analysis.html)
+[Sentiment Analysis on Social Media data-Twitter](https://kevweirikefe.github.io/projects/NLP-Sentiment%20Analysis.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
