@@ -1,11 +1,18 @@
 title: Kevwe Irikefe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "oooo.plus_39.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I'm a problem-solver, so I naturally became interested in Business Analytics because Data exploration and analysis is a key component to solving business problems.
   <br><br>
-  Second description 
+  As a true reflection of my diverse interests, this portfolio contains some analytics and other creative non-data science projects I have worked on.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Entrepreneur and Dog-lover
+  Life lesson: Learn to stop and smell the roses
+  <br><br>
+   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/kevweirikefe/"
+  <a href="https://www.linkedin.com/in/kevweirikefe/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
