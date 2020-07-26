@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pricing Analytics with MLE](https://github.com/KevweIrikefe/kevweirikefe.github.io/Projects/PricingProject.html)
+[Pricing Analytics with MLE](https://github.com/KevweIrikefe/kevweirikefe.github.io/tree/master/projects/PricingProject.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
