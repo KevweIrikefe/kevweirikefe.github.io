@@ -3,11 +3,11 @@
 ---
 ### Analytics Projects - Presentations
 
-[Determining Effect of Marketing Experiments-Causal Analysis](https://docs.google.com/presentation/d/1hv4jfCXZN9Pvv6R8-j0SW_zvPrn3Lx5e7wQl0lXs0EU/edit#slide=id.g52ca3ae23f_0_0)
+[Determining the Effect of Marketing Experiments-Causal Analysis](https://docs.google.com/presentation/d/1hv4jfCXZN9Pvv6R8-j0SW_zvPrn3Lx5e7wQl0lXs0EU/edit#slide=id.g52ca3ae23f_0_0)
 <img src="images/WineRetailer.png?raw=true"/>
 
 ---
-[Recommending Features to track impact of reforestation](https://docs.google.com/presentation/d/1ohloWI9XcwA28zxB7ZuY5teSye1cBP_Y6wMA-HjdWA4/edit#slide=id.g4c68a97855_0_33)
+[Recommending Features to track the impact of a reforestation project](https://docs.google.com/presentation/d/1ohloWI9XcwA28zxB7ZuY5teSye1cBP_Y6wMA-HjdWA4/edit#slide=id.g4c68a97855_0_33)
 <img src="images/SPZ.png?raw=true"/>
 ---
 
